@@ -1,6 +1,6 @@
 # VerifyEmailForgotPassword
 
-User Sign-Up 🚀  <br></br>
+User Sign-Up API🚀  <br></br>
 
 Email Verification/Confirmation <br></br>
 
